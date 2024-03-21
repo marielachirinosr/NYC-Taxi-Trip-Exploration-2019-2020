@@ -4,5 +4,5 @@ This project focuses on analyzing various aspects of taxi transportation in New 
 
 Through data visualization, statistical analysis, and trend comparison, we aim to uncover patterns, trends, and potential correlations within the NYC taxi dataset. By understanding these nuances, we can draw valuable conclusions about the impact of external factors, such as the COVID-19 pandemic, on taxi operations, customer behavior, and transportation infrastructure in NYC.
 
-![Overview Project](<Analysis Result in Tableau/Overview Project.png>)
+![Overview Project](<Analysis Result in Tableau/1. Overview Project.png>)
 
